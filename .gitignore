@@ -1,6 +1,7 @@
 data
 mysql-volume
 store
+doc
 .gradle
 .mvn
 build/
@@ -26,3 +27,4 @@ out/
 
 ### VS Code ###
 .vscode/
+
