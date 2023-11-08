@@ -24,4 +24,7 @@ services:
     ports:
       - "8080:8080"
 
-# docker-compose      
+# docker-compose
+# docker-compose build
+# docker-compose up -d
+
