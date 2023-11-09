@@ -55,7 +55,7 @@ I'm Flature
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=F7DF1E" alt="JS Badge"/>
 </div>
 
-[![Video Label](http://img.youtube.com/vi/59USvjy2toI/0.jpg)](https://youtu.be/59USvjy2toI)
+[![Video Label](http://img.youtube.com/vi/hWPv9LMlme8/0.jpg)](https://www.youtube.com/watch?v=hWPv9LMlme8)
 
 
 ## 실습
